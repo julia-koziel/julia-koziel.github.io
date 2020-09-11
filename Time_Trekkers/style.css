@@ -1034,7 +1034,7 @@
 		.slider .viewer {
 			position: relative;
 			border-radius: 0.5em;
-			border: solid 3em #fff;
+			border: solid 6em #fff;
 			height: 60em;
 			margin: 0 auto;
 			overflow: hidden;
@@ -1229,7 +1229,7 @@
 				#header nav > ul > li {
 					border-radius: 0.5em;
 					display: inline-block;
-					margin-left: 2em;
+					margin-left: 1em;
 					padding-left: 0;
 				}
 
@@ -1430,7 +1430,7 @@
 	#main > .container {
 		position: relative;
 		background: #949494;
-		border-radius: 0.5em;
+		border-radius: 10em;
 		margin-bottom: 2em;
 		padding: 3em;
 	}
