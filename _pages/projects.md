@@ -23,8 +23,6 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
 ---
 
-We are currently working on three applications, each intended for a different age group, spanning from as early as 3 years of age to early adulthood. Read more about our projects below:
-
 Pip and the Brain Explorers
 
 Pip and the Brain Explorers is an application for pre-schoolers between the ages of 3 and 6 years. It follows the life of Pip and his friends and includes 10 fun games, where children get to find magic coins or play with a puppy.

@@ -65,12 +65,8 @@ author:
   avatar : "/assets/images/eva_loth.png"
   bio    : "Dr Eva Loth (Chair) is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions."
 
-author:
-  name   : "Professor Rob Leech"
-  avatar : "/assets/images/eva_loth.png"
-  bio    : "Professor Rob Leech (Secretary) is an expert in neuroimaging and artificial intelligence working at Imperial College London. 
-  # links:
-  #   - label: "Website"
+# links:
+#   - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       url: "https://"
 #     - label: "Twitter"
