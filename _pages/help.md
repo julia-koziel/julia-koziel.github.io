@@ -4,7 +4,7 @@ tagline: "Meet our team"
 header:
   overlay_image: /assets/images/banner.png
 
-title: "Meet our team"
+title: "Meet our Team"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -30,8 +30,6 @@ Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
 
 <br>
 <br>
-<br>
-<br>
 
 
 <figure style="width: 100px" class="align-left">
@@ -42,6 +40,9 @@ Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of ex
 
 <br>
 <br>
+<br>
+<br>
+
 
 
 Team members
@@ -59,8 +60,6 @@ Adriana Azor - PhD Student
 
 
 Amy Pilkington - PhD Student
-
-<br>
 
 Affiliated members
 
