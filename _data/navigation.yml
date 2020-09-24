@@ -1,0 +1,7 @@
+main:
+  - title: "About us"
+    url: /_pages/about/
+  - title: "Current Projects"
+    url: /_pages/projects/
+  - title: "What can I do to help?"
+    url: /help/
