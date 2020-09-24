@@ -32,6 +32,7 @@ Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
 <br>
 <br>
 <br>
+<br>
 
 
 <figure style="width: 100px" class="align-left">
@@ -39,9 +40,6 @@ Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
   <figcaption>Chair</figcaption>
 </figure>
 Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
-
-<br>
-<br>
 
 
 Team members
