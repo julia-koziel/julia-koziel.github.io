@@ -25,4 +25,3 @@ We believe that everyone is unique and One of a Kind! We are currently developin
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.

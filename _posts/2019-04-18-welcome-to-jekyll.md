@@ -1,32 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to One of a Kind!"
 date: 2019-04-18T15:34:30-04:00
 header:
-  overlay_image: /assets/images/eva_loth.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/banner.png
 categories:
-  - blog
+  - charity
 tags:
   - Jekyll
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+We believe that everyone is unique and One of a Kind! We are currently developing a suite of game-like touch screen tasks to measure cognitive, emotional and social processes in children and young people of all ages and abilities. Our goal is to create an individual profile of (relative) strengths and difficulties for each child and young person. Our focus is to make these tasks accessible to individuals who have neurodevelopmental conditions, learning disabilities and/or intellectual disability. This project is funded by the Simons Foundation for Autism Research (SFARI)
