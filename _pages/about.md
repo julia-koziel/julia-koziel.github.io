@@ -1,11 +1,11 @@
 ---
 permalink: /_pages/about/
-tagline: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
+tagline: "Meet our team"
 header:
   overlay_image: /assets/images/banner.png
 
 title: "Mission Statement"
-caption: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
+caption: "Meet our Team."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -18,8 +18,27 @@ layouts_gallery:
     alt: "archive layout example"
 toc: true
 ---
+Prof Robert Leech (Secretary)
 
-We believe that everyone is unique and One of a Kind! We are currently developing a suite of game-like touch screen tasks to measure cognitive, emotional and social processes in children and young people of all ages and abilities. Our goal is to create an individual profile of (relative) strengths and difficulties for each child and young person. Our focus is to make these tasks accessible to individuals who have neurodevelopmental conditions, learning disabilities and/or intellectual disability. This project is funded by the Simons Foundation for Autism Research (SFARI)
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eva_loth.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+Dr Eva Loth (Chair) is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
+
+
+Team members
+
+Adriana Azor 
+Dr Amy Goodwin
+Julia Koziel
+Amy Pilkington
+
+
+Affiliated members
+Amschel de Rotschild
+
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
 
