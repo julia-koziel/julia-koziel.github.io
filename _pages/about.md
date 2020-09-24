@@ -4,7 +4,6 @@ tagline: "Meet our team"
 header:
   overlay_image: /assets/images/banner.png
 
-title: "Meet our team"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

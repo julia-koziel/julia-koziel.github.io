@@ -1,10 +1,9 @@
 ---
 permalink: /_pages/about/
-tagline: "Meet our team"
+tagline: "Participate in our research"
 header:
   overlay_image: /assets/images/banner.png
 
-title: "Meet our Team"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
