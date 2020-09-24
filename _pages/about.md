@@ -24,7 +24,7 @@ Professor Robert Leech (Secretary) is an expert in artificial intelligence and n
 
 
 <figure style="width: 150px" class="align-left">
-  <img src="/assets/images/eva_loth.jpg" alt="">
+  <img src="/assets/images/eva_loth.png" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure>
 Dr Eva Loth (Chair) is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
