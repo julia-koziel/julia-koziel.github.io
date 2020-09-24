@@ -20,24 +20,30 @@ layouts_gallery:
 author: false
 toc: true
 ---
-Professor Robert Leech (Secretary) is an expert in artificial intelligence and neuroimaging.
-
-
 
 
 <figure style="width: 150px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
+  <figcaption> Secretary</figcaption>
 </figure>
-Dr Eva Loth (Chair) is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
+
+Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
+
 <br>
-</br>
 <br>
-</br>
+
+
+<figure style="width: 150px" class="align-left">
+  <img src="/assets/images/eva_loth.png" alt="">
+  <figcaption>Chair</figcaption>
+</figure>
+Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
+
 <br>
-</br>
 <br>
-</br>
+<br>
+<br>
+
 
 
 Team members
@@ -45,15 +51,15 @@ Team members
 Dr Amy Goodwin - Research Associate
 <br>
 
-</br>
+
 Julia Koziel - Research Assistant
 <br>
 
-</br>
+
 Adriana Azor - PhD Student
 <br>
 
-</br>
+
 Amy Pilkington - PhD Student
 
 Affiliated members
