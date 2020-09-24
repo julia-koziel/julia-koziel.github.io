@@ -22,7 +22,7 @@ toc: true
 ---
 
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 100px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
   <figcaption> Secretary</figcaption>
 </figure>
@@ -33,7 +33,7 @@ Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
 <br>
 
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 100px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
   <figcaption>Chair</figcaption>
 </figure>
