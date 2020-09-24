@@ -19,9 +19,7 @@ layouts_gallery:
 toc: true
 ---
 
-
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+We believe that everyone is unique and One of a Kind! We are currently developing a suite of game-like touch screen tasks to measure cognitive, emotional and social processes in children and young people of all ages and abilities. Our goal is to create an individual profile of (relative) strengths and difficulties for each child and young person. Our focus is to make these tasks accessible to individuals who have neurodevelopmental conditions, learning disabilities and/or intellectual disability. This project is funded by the Simons Foundation for Autism Research (SFARI)
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
 

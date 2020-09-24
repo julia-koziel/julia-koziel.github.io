@@ -2,11 +2,11 @@
 permalink: /_pages/projects/
 tagline: "Read more about these below."
 header:
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/banner_projects.png
 
 title: "Our projects"
 caption: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
-gallery:
+layouts_gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/GNG.png
     alt: "placeholder image 1"
@@ -22,10 +22,6 @@ gallery:
 last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
 ---
-
-Pip and the Brain Explorers
-
-We believe that everyone is unique and One of a Kind! We are currently developing a suite of game-like touch screen tasks to measure cognitive, emotional and social processes in children and young people of all ages and abilities. Our goal is to create an individual profile of (relative) strengths and difficulties for each child and young person. Our focus is to make these tasks accessible to individuals who have neurodevelopmental conditions, learning disabilities and/or intellectual disability. This project is funded by the Simons Foundation for Autism Research (SFARI)
 
 We are currently working on three applications, each intended for a different age group, spanning from as early as 3 years of age to early adulthood. Read more about our projects below:
 
