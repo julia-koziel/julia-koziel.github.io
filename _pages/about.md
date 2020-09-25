@@ -14,10 +14,6 @@ toc: true
 
 Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these discplines to better understand the healthy and pathological brain. 
 
-<br>
-<br>
-<br>
-<br>
 
 <figure style="width: 100px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
@@ -28,6 +24,8 @@ Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of ex
 <br>
 <br>
 <br>
+<br>
+
 
 Team members
 

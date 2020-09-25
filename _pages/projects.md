@@ -31,7 +31,7 @@ Pip and the Brain Explorers is an application for pre-schoolers between the ages
 	<img src="/assets/images/GNG.png">
 	<img src="/assets/images/RL.png">
 	<img src="/assets/images/GNG.png">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>These are some of the games your child will get to play!</figcaption>
 </figure>
 
 Parents are given step-by-step instructions and demonstrations to play these games with their child. 
