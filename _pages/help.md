@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/about/
+permalink: /_pages/help/
 tagline: "Participate in our research"
 header:
   overlay_image: /assets/images/banner.png
@@ -15,57 +15,17 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 
+
+link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
 author: false
 toc: true
 ---
 
+We are looking for parents of both typically developing children, and children with neurodevelopmental conditions, who would be interested to download the app and test the games with their child, all in the comfort of their home.
 
-<figure style="width: 100px" class="align-left">
-  <img src="/assets/images/eva_loth.png" alt="">
-  <figcaption> Secretary</figcaption>
-</figure>
+By taking part, you'll help us to develop these games further and ensure that they are reliable measures of children's cognitive, emotional and social functioning.
 
-Professor Robert Leech is an expert in artificial intelligence and neuroimaging.
-
-<br>
-<br>
-
-
-<figure style="width: 100px" class="align-left">
-  <img src="/assets/images/eva_loth.png" alt="">
-  <figcaption>Chair</figcaption>
-</figure>
-Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-Team members
-
-Dr Amy Goodwin - Research Associate
-<br>
-
-
-Julia Koziel - Research Assistant
-<br>
-
-
-Adriana Azor - PhD Student
-<br>
-
-
-Amy Pilkington - PhD Student
-
-Affiliated members
-
-Amschel de Rotschild
-
-
-<!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
+Click [here](#) to take part in the Time Trekkers study
 
 ---
 
