@@ -1,7 +1,7 @@
 ---
 permalink: /_pages/about/
 
-title: Participate in our research
+title: Our Team
 
 author: false
 toc: true
@@ -18,10 +18,6 @@ Professor Robert Leech is an expert in neuroscience, psychology and computer sci
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <figure style="width: 100px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
@@ -29,6 +25,9 @@ Professor Robert Leech is an expert in neuroscience, psychology and computer sci
 </figure>
 Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
 
+<br>
+<br>
+<br>
 
 Team members
 

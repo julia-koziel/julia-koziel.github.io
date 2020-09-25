@@ -40,3 +40,8 @@ Parents are given step-by-step instructions and demonstrations to play these gam
 Time Trekkers
 
 Time Trekkers is an application for school-age children, who are between the ages of 6 and 11 years. We are currently in the initial stage of gathering feedback and we hope to find interested parents and children to let us know whether the games are enjoyable! In this version, children follow the main character, Theo, and get to travel in time and space in his special time machine.
+
+
+What can I do to help?
+
+Click on the tabs corresponding to different applications to find out more about studies that we are currently conducting. By taking part, you'll help us to develop these games further and ensure that they are reliable measures of children's cognitive, emotional and social functioning.
