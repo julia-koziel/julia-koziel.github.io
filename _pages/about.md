@@ -6,6 +6,7 @@ title: Our Team
 author: false
 toc: true
 ---
+<br>
 
 <figure style="width: 100px" class="align-left">
   <img src="/assets/images/rob_leech.jpg" alt="">

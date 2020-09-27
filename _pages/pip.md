@@ -10,6 +10,7 @@ caption: "Our app intended for the youngest children."
 link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
 
 toc: true
+sidebar: true
 ---
 
 About our study
