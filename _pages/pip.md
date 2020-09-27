@@ -2,7 +2,7 @@
 permalink: /_pages/pip/
 tagline: "Read more about these below."
 header:
-  overlay_image: /assets/images/banner_projects.png
+  overlay_image: /assets/images/banner_pip.png
 
 title: "Pip and the Brain Explorers"
 caption: "Our app intended for the youngest children."
@@ -10,52 +10,6 @@ caption: "Our app intended for the youngest children."
 link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
 
 toc: true
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
-
-sidebar-sample:
-  - title: "About Our Study"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Study Information"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "How to Participate"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
 ---
 
 About our study
