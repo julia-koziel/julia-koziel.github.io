@@ -13,6 +13,7 @@ toc: true
 
 sidebar:
   title: "Sample Title"
+  nav: sidebar-sample
 
 sidebar-sample:
   - title: "About Our Study"
