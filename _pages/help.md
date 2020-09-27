@@ -25,7 +25,7 @@ We are looking for parents of both typically developing children, and children w
 
 By taking part, you'll help us to develop these games further and ensure that they are reliable measures of children's cognitive, emotional and social functioning.
 
-Click [here](#) to take part in the Time Trekkers study
+Click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html) to take part in the Time Trekkers study
 
 ---
 
