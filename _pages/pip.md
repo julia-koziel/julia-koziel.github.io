@@ -11,6 +11,19 @@ link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
 
 toc: true
 sidebar: true
+
+sidebar:
+  - title: "One of a Kind Charity"
+    image: "/assets/images/eva_loth.png"
+    image_alt: "image"
+    text: "Dr Eva Loth"
+
+    image: "assets/images/rob_leech.png"
+    text: "Professor Rob Leech"
+  - title: "Another Title"
+    image: "assets/images/rob_leech.png"
+
+    nav: sidebar-sample
 ---
 
 About our study
