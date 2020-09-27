@@ -1,6 +1,6 @@
 ---
 permalink: /_pages/pip/
-tagline: "Read more about these below."
+tagline: "Take part in our study for preschoolers!."
 header:
   overlay_image: /assets/images/banner_pip.png
 
