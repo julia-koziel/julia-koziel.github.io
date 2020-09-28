@@ -26,7 +26,7 @@ What makes our touch-screen games special?
 
 We developed these tasks with puppeteers and artists from Folder Feathers Company to ensure that they are engaging and enjoyable for pre-schoolers. We are also aware that young children may need additional demonstrations and practice components before they understand the rules of each game. For that reason, when you play the game with your child, you have a choice of repeating some instructions or skipping them.
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="1dhruOICg-HsDLntpAtMCrRSK1wvj4fQG" provider="google-drive" %}
 
 What is our ultimate goal?
 

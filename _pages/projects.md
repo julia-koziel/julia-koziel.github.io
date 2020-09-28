@@ -19,13 +19,15 @@ sidebar:
 
 Pip and the Brain Explorers
 
-Pip and the Brain Explorers is an application for pre-schoolers between the ages of 3 and 6 years. It follows the life of Pip and his friends and includes 10 fun games, where children get to find magic coins or play with a puppy.
+Pip and the Brain Explorers is an application for pre-schoolers between the ages of 3 and 6 years. It follows the life of Pip and his friends and includes 10 fun games, where children get to play with a puppy or find magic coins. 
 
 <figure class="second">
-	<video src="/assets/images/GNG.mp4">
+	<img src="/assets/images/GNG.png">
 	<img src="/assets/images/RL.png">
 	<figcaption>These are some of the games your child will get to play!</figcaption>
 </figure>
+
+
 
 Find out more [here] (http://oneofakindcharity.com/_pages/pip/) and participate in our study [here]()
 
