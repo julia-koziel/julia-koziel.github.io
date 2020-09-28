@@ -62,7 +62,7 @@ Amy Pilkington - PhD Student
 
 Affiliated members
 
-Amschel de Rotschild - former Research Assitant
+Amschel de Rotschild - former Research Assistant
 
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->

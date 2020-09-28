@@ -1,9 +1,10 @@
 ---
 permalink: /_pages/projects/
-tagline: "Read more about our studies."
 header:
   overlay_image: /assets/images/banner_projects.png
 
+title: "Our current 
+studies"
 sidebar: true
 
 sidebar:
