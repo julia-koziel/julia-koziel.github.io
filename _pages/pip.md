@@ -26,11 +26,15 @@ What makes our touch-screen games special?
 
 We developed these tasks with puppeteers and artists from Folder Feathers Company to ensure that they are engaging and enjoyable for pre-schoolers. We are also aware that young children may need additional demonstrations and practice components before they understand the rules of each game. For that reason, when you play the game with your child, you have a choice of repeating some instructions or skipping them.
 
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+
 What is our ultimate goal?
 
 Our goal is a creation of a profile of (relative) strengths and difficulties for each child. By taking part in the study, you and your child help us in validating the tasks and ensuring that they are reliable measures of the underlying cognitive or emotional processes. This will allow us to eventually use the app to inform clinicians or teachers about any additional support required by children. 
 
-Click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html) to take part in the Pip and the Brain Explorers Study
+Click [here]() to take part in the Pip and the Brain Explorers Study
+
+
 
 
 
