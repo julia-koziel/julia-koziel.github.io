@@ -19,7 +19,7 @@ sidebar:
 
 How to participate?
 
-Our research is currently conducted online. To participate, simply click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html).
+Our research is currently conducted online. To participate, simply click [here]().
 
 
 What will the participation involve?

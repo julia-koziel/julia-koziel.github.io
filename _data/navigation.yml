@@ -23,12 +23,9 @@ sidebar-sample:
     children:
       - title: "About our study"
         url: /_pages/pip/
-      - title: "What makes our touch-screen games special?"
-        url: /_pages/pip/
-      - title: "What is our ultimate goal?"
-        url: /_pages/pip/
       - title: "Study Information"
         url: /_pages/studyinfo/
   - title: "Time Trekkers"
+
 
   

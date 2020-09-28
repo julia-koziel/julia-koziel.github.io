@@ -27,8 +27,7 @@ Pip and the Brain Explorers is an application for pre-schoolers between the ages
 	<figcaption>These are some of the games your child will get to play!</figcaption>
 </figure>
 
-Parents are given step-by-step instructions and demonstrations to play these games with their child. 
-
+Find out more [here] (http://oneofakindcharity.com/_pages/pip/) and participate in our study [here]()
 
 Time Trekkers
 

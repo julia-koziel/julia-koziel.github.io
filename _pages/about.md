@@ -4,7 +4,16 @@ permalink: /_pages/about/
 title: Our Team
 
 author: false
-toc: true
+toc: false
+
+sidebar: true
+
+sidebar:
+  - title: "One of a Kind Charity"
+    image: "/Content/ooak-brownbark.png"
+    image_alt: "logo"
+
+    nav: sidebar-sample
 ---
 
 <figure style="width: 150px" class="align-left">
@@ -16,6 +25,7 @@ toc: true
 
 Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these disciplines to better understand the healthy and pathological brain. 
 
+<br>
 <br>
 
 <figure style="width: 150px" class="align-left">
