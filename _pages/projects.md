@@ -4,7 +4,7 @@ tagline: "Learn more below."
 header:
   overlay_image: /assets/images/banner_projects.png
 
-title: "Our current studies"
+title: "Our studies"
 sidebar: true
 
 sidebar:
@@ -26,16 +26,13 @@ Pip and the Brain Explorers is an application for pre-schoolers between the ages
 </figure>
 
 
-
-Find out more [here] (oneofakindcharity.com/_pages/pip/) and participate in our study [here](https://oneofakindcharity.com/pipandthebrainexplorerssurvey).
-
 Time Trekkers
 
 Time Trekkers is an application for school-age children, who are between the ages of 6 and 11 years. We are currently in the initial stage of gathering feedback and we hope to find interested parents and children to let us know whether the games are enjoyable! In this version, children follow the main character, Theo, and get to travel in time and space in his special time machine.
 
 <figure class="second">
-	<img src="/Content/RL2.png">
 	<img src="/Content/menu.png">
+	<img src="/Content/RL2.png">
 	<figcaption>These are some of the games your child will get to play!</figcaption>
 </figure>
 
