@@ -61,11 +61,10 @@ plugins:
 
 sidebar:
   - title: "One of a Kind Charity"
-    image: "/Content/ooak-brownbark.png"
-    image_alt: "image"
+    # image: "/Content/ooak-brownbark.png"
+    # image_alt: "image"
 
     nav: sidebar-sample
-
 
 
 # author:

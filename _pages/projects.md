@@ -6,21 +6,16 @@ header:
 
 title: "Our projects"
 caption: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
-layouts_gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/GNG.png
-    alt: "placeholder image 1"
-    title: "Our Touch the Puppy Game"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/RL.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-last_modified_at: 2020-05-01T10:15:22-04:00
+
 toc: true
+sidebar: true
+
+sidebar:
+  - title: "One of a Kind Charity"
+    image: "/Content/ooak-brownbark.png"
+    image_alt: "logo"
+
+    nav: sidebar-sample
 ---
 
 Pip and the Brain Explorers
