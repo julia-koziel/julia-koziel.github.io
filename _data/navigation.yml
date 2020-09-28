@@ -27,11 +27,7 @@ sidebar-sample:
       - title: "What is our ultimate goal?"
         url: /_pages/pip/
       - title: "Study Information"
-        url: /_pages/pip/
+        url: /_pages/studyinfo/
   - title: "Time Trekkers"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: 
+
   
