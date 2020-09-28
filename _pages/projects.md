@@ -4,7 +4,7 @@ tagline: "Read more about our studies."
 header:
   overlay_image: /assets/images/banner_projects.png
 
-title: ""
+title: 
 caption: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
 
 sidebar: true
@@ -29,7 +29,7 @@ Pip and the Brain Explorers is an application for pre-schoolers between the ages
 
 
 
-Find out more [here] (http://oneofakindcharity.com/_pages/pip/) and participate in our study [here]()
+Find out more [here] (http://oneofakindcharity.com/_pages/pip/) and participate in our study [here](https://oneofakindcharity.com/pipandthebrainexplorerssurvey)
 
 Time Trekkers
 

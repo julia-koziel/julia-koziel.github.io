@@ -32,7 +32,7 @@ What is our ultimate goal?
 
 Our goal is a creation of a profile of (relative) strengths and difficulties for each child. By taking part in the study, you and your child help us in validating the tasks and ensuring that they are reliable measures of the underlying cognitive or emotional processes. This will allow us to eventually use the app to inform clinicians or teachers about any additional support required by children. 
 
-Click [here]() to take part in the Pip and the Brain Explorers Study
+Click [here](https://oneofakindcharity.com/pipandthebrainexplorerssurvey) to take part in the Pip and the Brain Explorers Study
 
 
 
