@@ -22,7 +22,7 @@ Pip and the Brain Explorers
 Pip and the Brain Explorers is an application for pre-schoolers between the ages of 3 and 6 years. It follows the life of Pip and his friends and includes 10 fun games, where children get to find magic coins or play with a puppy.
 
 <figure class="second">
-	<img src="/assets/images/GNG.png">
+	<video src="/assets/images/GNG.mp4">
 	<img src="/assets/images/RL.png">
 	<figcaption>These are some of the games your child will get to play!</figcaption>
 </figure>
@@ -32,7 +32,6 @@ Find out more [here] (http://oneofakindcharity.com/_pages/pip/) and participate 
 Time Trekkers
 
 Time Trekkers is an application for school-age children, who are between the ages of 6 and 11 years. We are currently in the initial stage of gathering feedback and we hope to find interested parents and children to let us know whether the games are enjoyable! In this version, children follow the main character, Theo, and get to travel in time and space in his special time machine.
-
 
 What can I do to help?
 
