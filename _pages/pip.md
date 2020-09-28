@@ -1,6 +1,6 @@
 ---
 permalink: /_pages/pip/
-tagline: "Take part in our study for preschoolers!."
+tagline: "Take part in our study for preschoolers!"
 header:
   overlay_image: /assets/images/banner_pip.png
 
@@ -16,12 +16,6 @@ sidebar:
   - title: "One of a Kind Charity"
     image: "/Content/ooak-brownbark.png"
     image_alt: "logo"
-    text: "Dr Eva Loth"
-
-    image: "assets/images/rob_leech.png"
-    text: "Professor Rob Leech"
-  - title: "Another Title"
-    image: "assets/images/rob_leech.png"
 
     nav: sidebar-sample
 ---

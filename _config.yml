@@ -61,11 +61,8 @@ plugins:
 
 sidebar:
   - title: "One of a Kind Charity"
-    image: "/assets/images/eva_loth.png"
+    image: "/Content/ooak-brownbark.png"
     image_alt: "image"
-    text: "Dr Eva Loth"
-  - title: "Another Title"
-    image: "assets/images/rob_leech.png"
 
     nav: sidebar-sample
 
