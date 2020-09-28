@@ -7,7 +7,6 @@ header:
 title: "Our projects"
 caption: "One of a Kind UK is a UK-based charity with the aim to help children and young people to reach their potential. We combine approaches from developmental psychology and neuroscience to identify and foster strengths and talents and develop targeted support for difficulties."
 
-toc: true
 sidebar: true
 
 sidebar:

@@ -13,6 +13,8 @@ toc: true
   <figcaption> Secretary</figcaption>
 </figure>
 
+<br>
+
 Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these disciplines to better understand the healthy and pathological brain. 
 
 <br>
@@ -23,6 +25,9 @@ Professor Robert Leech is an expert in neuroscience, psychology and computer sci
   <img src="/assets/images/eva_loth.png" alt="">
   <figcaption>Chair</figcaption>
 </figure>
+
+<br>
+
 Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
 
 <br>
