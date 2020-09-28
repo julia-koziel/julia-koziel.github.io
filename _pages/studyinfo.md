@@ -7,9 +7,6 @@ header:
 title: "Pip and the Brain Explorers"
 caption: "Our app intended for the youngest children."
 
-link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
-
-toc: true
 sidebar: true
 
 sidebar:
@@ -22,7 +19,7 @@ sidebar:
 
 How to participate?
 
-Our research is currently conducted online. To participate, simply click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html)
+Our research is currently conducted online. To participate, simply click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html).
 
 
 What will the participation involve?

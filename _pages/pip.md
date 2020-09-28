@@ -7,9 +7,6 @@ header:
 title: "Pip and the Brain Explorers"
 caption: "Our app intended for the youngest children."
 
-link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
-
-toc: true
 sidebar: true
 
 sidebar:
@@ -35,7 +32,6 @@ Our goal is a creation of a profile of (relative) strengths and difficulties for
 
 Click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html) to take part in the Pip and the Brain Explorers Study
 
-Study Information
 
 
 
