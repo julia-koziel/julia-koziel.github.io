@@ -27,7 +27,7 @@ Pip and the Brain Explorers is an application for pre-schoolers between the ages
 
 
 
-Find out more [here] (https://oneofakindcharity.com/_pages/pip/) and participate in our study [here](https://oneofakindcharity.com/pipandthebrainexplorerssurvey)
+Find out more [here] (oneofakindcharity.com/_pages/pip/) and participate in our study [here](https://oneofakindcharity.com/pipandthebrainexplorerssurvey).
 
 Time Trekkers
 
