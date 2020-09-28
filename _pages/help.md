@@ -18,57 +18,11 @@ layouts_gallery:
 
 sidebar:
   - title: "One of a Kind Charity"
-    image: "/assets/images/eva_loth.png"
-    image_alt: "image"
+    image: "/content/ooak-brownbark.png"
+    image_alt: "logo"
     text: "Dr Eva Loth"
-  - title: "Another Title"
-    image: "assets/images/rob_leech.png"
 
     nav: sidebar-sample
-
-
-sidebar-sample:
-  - title: "About Our Study"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Study Information"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "How to Participate"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
-
 
 
 link: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html

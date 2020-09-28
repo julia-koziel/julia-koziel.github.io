@@ -14,8 +14,8 @@ sidebar: true
 
 sidebar:
   - title: "One of a Kind Charity"
-    image: "/assets/images/eva_loth.png"
-    image_alt: "image"
+    image: "/Content/ooak-brownbark.png"
+    image_alt: "logo"
     text: "Dr Eva Loth"
 
     image: "assets/images/rob_leech.png"
@@ -40,3 +40,8 @@ What is our ultimate goal?
 Our goal is a creation of a profile of (relative) strengths and difficulties for each child. By taking part in the study, you and your child help us in validating the tasks and ensuring that they are reliable measures of the underlying cognitive or emotional processes. This will allow us to eventually use the app to inform clinicians or teachers about any additional support required by children. 
 
 Click [here](http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html) to take part in the Pip and the Brain Explorers Study
+
+Study Information
+
+
+

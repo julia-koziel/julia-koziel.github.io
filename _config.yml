@@ -16,7 +16,7 @@
 
 title: One of a Kind Charity
 url: oneofakindcharity.com
-email:
+email: oneofakind@charity.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 twitter_username: username
@@ -70,47 +70,6 @@ sidebar:
     nav: sidebar-sample
 
 
-sidebar-sample:
-  - title: "About Our Study"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Study Information"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "How to Participate"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
 
 # author:
 
@@ -134,9 +93,9 @@ sidebar-sample:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Our funders"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.sfari.org/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"
