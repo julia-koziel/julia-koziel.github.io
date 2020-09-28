@@ -26,6 +26,7 @@ sidebar:
 Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these disciplines to better understand the healthy and pathological brain. 
 
 <br>
+<br>
 
 <figure style="width: 150px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
