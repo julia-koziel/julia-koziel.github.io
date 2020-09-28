@@ -8,7 +8,7 @@ main:
   - title: "Time Trekkers"
     url: http://www.psyc.bbk.ac.uk/teachbrite/oneofakind/TimeTrekkers.html
 
-    sidebar-sample:
+sidebar-sample:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"

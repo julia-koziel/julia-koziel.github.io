@@ -10,10 +10,10 @@ toc: true
 
 <figure style="width: 100px" class="align-left">
   <img src="/assets/images/rob_leech.jpg" alt="">
-  <figcaption> ###Secretary</figcaption>
+  <figcaption> Secretary</figcaption>
 </figure>
 
-Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these discplines to better understand the healthy and pathological brain. 
+Professor Robert Leech is an expert in neuroscience, psychology and computer science. His research integrates these disciplines to better understand the healthy and pathological brain. 
 
 <br>
 <br>
@@ -21,7 +21,7 @@ Professor Robert Leech is an expert in neuroscience, psychology and computer sci
 
 <figure style="width: 100px" class="align-left">
   <img src="/assets/images/eva_loth.png" alt="">
-  <figcaption>###Chair</figcaption>
+  <figcaption>Chair</figcaption>
 </figure>
 Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of experience working with individuals with neurodevelopmental conditions.
 
@@ -29,7 +29,7 @@ Dr Eva Loth is a cognitive developmental neuroscientist with over 20 years of ex
 <br>
 <br>
 
-###Team members
+Team members
 
 
 Dr Amy Goodwin - Research Associate
@@ -47,7 +47,7 @@ Adriana Azor - PhD Student
 Amy Pilkington - PhD Student
 
 
-###Affiliated members
+Affiliated members
 
 Amschel de Rotschild - former Research Assitant
 
