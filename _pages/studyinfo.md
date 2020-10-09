@@ -10,7 +10,7 @@ caption: "Our app intended for the youngest children."
 sidebar: true
 
 sidebar:
-  - title: "One of a Kind Charity"
+  - title: "One of a Kind Project"
     image: "/Content/ooak-brownbark.png"
     image_alt: "logo"
 
@@ -19,18 +19,18 @@ sidebar:
 
 How to participate?
 
-Our research is currently conducted online. To participate, simply click [here](https://cambridge.eu.qualtrics.com/jfe/form/SV_a4w1Jo69lMWWKzP).
+Our research is currently conducted online. To participate, simply email us [here](pip-tabletstudy@kcl.ac.uk)
 
 
 What will the participation involve?
 
-1. Consenting to the study through the survey.
+1. Receiving your participant code from the research team. You will need to use it when playing the games. 
 
 2. Downloading the application with touch-screen games on your phone/ tablet. 
 
 3. Filling in some questionnaires about your child's behaviour. These will take about 20-30 minutes. 
 
-4. Receiving a link to an £15 online voucher.
+4. Receiving a link to an £15 online voucher via email.
 
 
 Do I have to take part?

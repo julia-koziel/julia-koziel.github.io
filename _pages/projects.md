@@ -8,7 +8,7 @@ title: "Our studies"
 sidebar: true
 
 sidebar:
-  - title: "One of a Kind Charity"
+  - title: "One of a Kind Project"
     image: "/Content/ooak-brownbark.png"
     image_alt: "logo"
 
