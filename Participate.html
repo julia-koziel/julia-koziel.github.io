@@ -71,8 +71,8 @@
 					<div class="col-md-8"><img src="OneofaKind_website_files/timetrekkers.png"></div>
 					<h2>Time Trekkers Study</h2>
 					<p>
-						Explore this page to find out more about our research, consent to take part, generate your participant ID, and download the app. 
-					</p>
+						This is a website for our study run by researchers at King's College London and funded by the SFARI foundation.  
+					Explore this page to find our more about our research, find out how to participate and download the app. 
 
 				</div>
 			</section>
@@ -81,9 +81,9 @@
 			<div class="container">
 
 				<nav>
-						<li><a href="OneofaKindWebsite.html">Home</a></li>
-						<li><a href="StudyDetails.html">Study Information</a></li>
-						<li><a href="ConsentForm.html">Consent forms </a></li>
+					<li><a href="TimeTrekkers.html">Home</a></li>
+					<li><a href="StudyDetails.html">Study Information</a></li>
+					<li><a href="Participate.html">How to participate </a></li>
 					  </ul>
 				</nav>
 			 </div>
@@ -95,88 +95,21 @@
 		<!-- One -->
 		<section>
 			
-			<h3>Consent form</h3>
+			<h3>How to participate?</h3>
 	
-			<div class="table-wrapper">
-				<form method="post" action="form.php">
-				<table>
-					<thead>
-			
-						<tbody><tr>
-							<td><input type="checkbox" name="consent" value="yes" id="one"></td>
-							<td><label for="one">I confirm that I have read and understand the information sheet dated 26/06/2020. I understand what participation in this study involves. </label></td>
-						<tr>
-							<td><input type="checkbox" name="consent" value="yes" id="two"></td>
-							<td><label for="two">I have had the opportunity to consider the information and to ask questions. A researcher answered my questions satisfactorily.</label></td>
-						</tr>
-						<tr>
-							<td><input type="checkbox" name="consent" value="yes" id="tree"></td>
-							<td><label for="three">I understand that my son/daughter’s participation is voluntary and that we are free to withdraw at any time, without having to give any reason.</label></td>
-						</tr>
-						<tr>
-							<td><input type="checkbox" name="consent" value="yes" id="four"></td>
-							<td><label for="four">I understand that my child will be assigned a 6-digit study code upon enrolment in the study and that his/her responses will be only recorded under this study code.  
-								Personal information will be stored securely and confidential and separate from responses on any of the study measures.</label></td>
-						</tr>
-						<tr>
-							<td><input type="checkbox" name="consent" value="yes" id="five"></td>
-							<td><label for="five">I agree for my son/daughter to play cognitive games on a tablet/online.</label></td>
+			<div class="container">
+				<h2>How to participate?</h2>
+	
+							1. Send an email to timetrekkers-study@kcl.ac.uk to sign up. 
+						
+							2. We will send you your child's participant ID to use in the application. We will also send you a link to fill in some questionnaires. 
+							
+							3. Play the games with your child and complete the questionnaires. Send us an email when you're finished!
 
-						</tr>
-						<tr>
-							<td><input type="checkbox" name="consent" value="yes" id="six"></td>
-							<td><label for="six">I agree for my son/daughter to fill in questionnaire that will be completely anonymous. I agree to assist filling in the questionnaire if my son/daughter is unable to do so.</label></td>
-						</tr>
-						<tr>
-					</tbody></table></p>
-					
-					<p>
-					<p>	 <h1>
-						After consenting to take part in our study, please provide us with your child's gender and age below and generate your participant ID. 
-						This ID will be the only piece of information linked to your child's data. 
-					</h1> 
+							4. We will send you an e-voucher as a form of reimbursement. 
 
-							<p></p><label for="gender">Your child's gender:</label>
-							<select id="gender" name="gender">
-							  <option value="female">female</option>
-							  <option value="male">male</option>
-							</select>
-							<p>
-								<label for="date">Your child's date of birth:</label>
-							</p>
-							</p><input type="date" name="DOB" max="2015-12-31" required></p>
-
-					 <ul class="actions">
-						<li><a onClick="IdGenerator()" class="button big"> Generate participant ID</a></li>
-					</ul>
-
-				 </button> 
-				 <p id="GN_ID" 
-					style="color: #24305e;  
-						   font-size: 24px;  
-						   font-weight: bold;"> 
-				 </p> 
-				 <script> 
-					 var ID = document.getElementById('GN_ID'); 
-			   
-					 function randomStr(len, arr) { 
-						 var ans = ''; 
-						 for (var i = len; i > 0; i--) { 
-							 ans +=  
-							   arr[Math.floor(Math.random() * arr.length)]; 
-						 } 
-						 return ans; 
-					 } 
-			   
-					 function IdGenerator() { 
-						var id = randomStr(6,'1234567890')
-						ID.innerHTML = id
-					 }
-				 </script>
-
-							<input type="hidden" id="GN_ID" name="ID" />
-							<input type="submit" value="submit">
-						  </form>		
+			</div>
+		</section>
 		
 		<!-- CTA -->
 			<section id="cta" class="wrapper style3">
