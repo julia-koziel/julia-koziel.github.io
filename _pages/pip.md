@@ -34,6 +34,14 @@ Our goal is a creation of a profile of (relative) strengths and difficulties for
 
 Email us at [pip-tabletstudy@kcl.ac.uk](mailto:pip-tabletstudy@kcl.ac.uk) to take part in the Pip and the Brain Explorers Study
 
+Read our [information sheet]("/assets/Privacy Policy.docx") to find out more.
+
+<a href="/assets/Privacy Policy.docx" class="btn--default">Download the app for Android</a>
+
+<a href="/assets/Privacy Policy Children.docx" class="btn--default">Download the app for iOS</a>
+
+
+
 
 <a href="/assets/Privacy Policy.docx" class="btn--default">Privacy notice</a>
 
