@@ -43,7 +43,7 @@ Read our [information sheet](/assets/Privacy Policy.docx) to find out more.
 
 
 
-<a href="/assets/Privacy Policy.docx" class="btn--default">Privacy notice</a>
+<a href="/_pages/privacy/" class="btn--default">Privacy notice</a>
 
 <a href="/assets/Privacy Policy Children.docx" class="btn--default">Privacy notice for Children</a>
 
