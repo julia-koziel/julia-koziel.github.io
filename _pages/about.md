@@ -64,6 +64,8 @@ Affiliated members
 
 Amschel de Rotschild - former Research Assistant
 
+Emily Jones - Advisor 
+
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
 
