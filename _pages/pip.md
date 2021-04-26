@@ -34,7 +34,7 @@ Our goal is a creation of a profile of (relative) strengths and difficulties for
 
 Email us at [pip-tabletstudy@kcl.ac.uk](mailto:pip-tabletstudy@kcl.ac.uk) to take part in the Pip and the Brain Explorers Study
 
-Read our [information sheet](/assets/infosheet.docx) to find out more.
+Read our [information sheet](/assets/Information Sheet.docx) to find out more.
 
 <!-- <a href=https://play.google.com/store/apps/details?id=com.EUAIMS.Battery6to11 class="btn--default">Download the app for Android</a>
 

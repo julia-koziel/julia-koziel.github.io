@@ -32,7 +32,7 @@ Time Trekkers
 
 Time Trekkers is an application for school-age children, who are between the ages of 6 and 11 years. We are currently in the initial stage of gathering feedback and we hope to find interested parents and children to let us know whether the games are enjoyable! In this version, children follow the main character, Theo, and get to travel in time and space in his special time machine.
 
-Interested in taking part? Email us at [pip-tabletstudy@kcl.ac.uk](mailto:timetrekkers-study@kcl.ac.uk)!
+Interested in taking part? Email us at [timetrekkers-study@kcl.ac.uk](mailto:timetrekkers-study@kcl.ac.uk)!
 
 <figure class="second">
 	<img src="/Content/menu.png">
