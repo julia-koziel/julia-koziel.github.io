@@ -16,65 +16,85 @@ sidebar:
     nav: sidebar-sample
 ---
 
-Pip and the Brain Explorers Privacy Policy
 
-This app has been developed as a part of a study funded by SFARI foundation and carried out by researchers at King’s College London. This study is focused on developing touch-screen tasks that measure cognitive processes in children in various age groups.  
+Pip and the Brain Explorers – Privacy Policy
+Last updated: 11/03/2026
+Pip and the Brain Explorers is an application developed as part of a research study funded by the Simons Foundation Autism Research Initiative (SFARI) and carried out by researchers at King’s College London. The purpose of this study is to develop and evaluate touchscreen tasks that measure cognitive processes in young children.
+This Privacy Policy explains how information is collected, used, stored, and shared when you or your child use the Pip and the Brain Explorers mobile application or associated website.
+The application is designed for children aged 3–6 years. Because the app is used by children, parental or guardian consent is required before any data is collected or recorded.
+1. Parental Consent
+Before a child can use the application, a parent or legal guardian must provide consent. During this process, the parent or guardian is asked to provide their name to confirm consent for participation in the research study.
+This consent is stored digitally by the research team as a record that permission has been granted for the child to participate in the study and for the research data to be collected.
+Children cannot use the application until parental consent has been provided.
+2. Information We Collect
+We collect limited information necessary to conduct the research study and maintain the functionality of the application.
+a. Parent or Guardian Information
+When providing consent, the parent or guardian may provide:
+•	Parent or guardian name (to document consent)
+This information is used solely to record consent for participation in the study.
+b. Research and Gameplay Data
+When the child uses the application, the app automatically records gameplay and interaction data related to the cognitive tasks within the app. This may include:
+•	task completion times
+•	response times to tasks
+•	gameplay performance and outcomes
+•	progress through activities
+•	timestamps of interactions
+This information is linked only to a unique participant ID code. The ID code is used so the research team can analyze results without identifying the child.
+No information collected through the application is used to personally identify the child.
+c. Device and Technical Information
+To ensure the application functions properly and to help maintain the service, the application may automatically collect limited technical information about the device being used, such as:
+•	device identifiers or installation identifiers
+•	device type or model
+•	operating system version
+•	application version
+•	basic diagnostic information
+This information is used only for research data management, troubleshooting, security, and improving the application.
+3. How We Use the Information
+The information collected through the application is used for the following purposes:
+•	conducting scientific research on children's cognitive processes
+•	analysing how children perform on different tasks within the application
+•	improving the design and functionality of the application
+•	troubleshooting technical issues and maintaining the app
+•	producing anonymised research reports and academic publications
+Any research findings will be reported only in aggregated or anonymised form, meaning that individual children cannot be identified.
+4. Information Sharing
+We do not sell or use data for advertising purposes.
+Information collected through the application may be shared only in the following circumstances:
+Research collaboration
+De-identified or aggregated data may be shared with researchers at King’s College London or collaborating research institutions for scientific research purposes.
+Research publications
+Results may be published in academic journals, conference presentations, or reports. These publications contain only aggregated or anonymised data.
+Legal obligations
+Information may be disclosed if required by applicable law, regulation, or legal process.
+5. Data Security
+We take reasonable technical and organisational measures to protect the information collected through the application. Research data is stored securely and access is restricted to authorised members of the research team.
+6. Data Retention
+Research data collected through the application may be retained for as long as necessary to support scientific research, validation of research findings, and academic publication.
+All stored research data is de-identified and associated only with a participant ID code.
+7. Withdrawing Your Data
+Parents or guardians may request the removal of their child’s research data at any time.
+To request deletion of your data, please contact us and provide the participant ID code associated with the data.
+Contact email:
+pip.brainexplorers@kcl.ac.uk
+8. Your Data Protection Rights
+Under applicable data protection laws, including the General Data Protection Regulation (GDPR), parents or guardians may have the right to:
+•	request access to the data associated with their child’s participant ID
+•	request correction of inaccurate information
+•	request restriction of data processing in certain circumstances
+•	request deletion of data where applicable
+Requests can be made by contacting the research team using the contact information below.
+9. Children's Privacy
+This application is designed for children aged 3–6 years participating in a research study.
+The app does not collect personal identifying information about children. All gameplay and research data is stored only under a unique participant ID code.
+A parent or guardian must provide consent before the child can use the application.
+10. Contact Information
+If you have any questions about this Privacy Policy or about how data is collected and used in the Pip and the Brain Explorers application, please contact us at:
+pip.brainexplorers@kcl.ac.uk 
+11. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes to the application or to comply with legal or regulatory requirements. When changes are made, the updated policy will be posted with a revised "Last updated" date.
 
-This privacy notice outlines the practices that we use to collect, use, store or share any information that you may provide by using the app. It applies if you’re using any of the iPhone, iPad, Android Pip and the Brain Explorers applications or using our Pip and the Brain Explorers website.  The app services are intended for children between the ages of 6-11. We outline the privacy policy suitable that age group in a separate document titled Privacy Police for Children. We will always ask for the parent’s or guardian’s consent, before any information about the child is collected. In this Privacy Policy, we’ll explain what we do with the information you give us and which we may collect from you. 
 
 
-The data we collect from you 
-
-We obtain some data from you when you use or view our website, or use our app. By using these services, you agree to the privacy policy specifications. 
-
-Information Collection 
-
-Account information: The information you provide to us on the website will be linked with any data collected by the Pip and the Brain Explorers application. It will be saved with your unique ID code which only you know, therefore your child will not be personally identifiable by any of the data we will collect and store.   
-Content you provide through our products: the services include the One of a Kind Charity web and the Pip and the Brain Explorers application you use, where we collect and store content and information that you save and share. This content includes information about how your child performs and responds while playing games included in the Pip and the Brain Explorers app e.g. how fast it takes them to complete a task. This content is always linked with the ID code and cannot be used to identify your child. No data is collected through automated means.
-
-
-Information Use
-
-To produce anonymised research reports that might be used for our service, or other purposes. For instance, data on how children perform on different games may be used to help us develop these games further. It may also be used in research publications or other research purposes. 
-Feedback/ user support: we use your information to resolve technical issues you encounter and to repair and improve the services.
-As required by applicable law, legal process or regulation.
-
-
-Information sharing
-
-We will not gather any personally-identifying information about your child.
-Aggregated or de-identified data: we may disclose or use for any purpose aggregated or de-identified information that cannot reasonably be used to identify you or your children. For example, we may share aggregated or de-identified information with colleagues at research institutions for research purposes, such as to compare the information gathered by the application with that gathered by standardised assessments, or by publishing a report on trends in the usage of our services.
-To comply with laws: if we receive a request for information, we may disclose information if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation or legal process.
-To enforce our rights, prevent fraud, and for safety: to protect and defend the rights, property or safety of One of a Kind Charity, or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or security issues.
-With consent: we may share information with third parties when we have consent to do so.
-
-How long we keep information
-
-Information you provide to us: all information and data you provide to us is kept indefinitely. 
-
-Cookies, mobile device identifiers and web beacons
-
-Cookies are files with a small amount of data. This service does not use these “cookies explicitly”.
-Do not track policy: we do not collect personal information about your online activities over time and across third-party websites or online services. Therefore, “do not track” signals transmitted from web browsers do not apply to our sites or services, and we do not alter any of our data collection and use practices upon receipt of such a signal. 
-
-Withdrawing your data
-
-You have a right to request your data after it has been collected. You may do so by providing us with your unique ID code and asking for data removal. Please contact oneofakindcharity@gmail.com
-
-Your personal rights
-
-You have the following rights regarding your data collected by the Pip and the Brain Explorers App:
-1. You can request any of your data collected by Pip and the Brain Explorers App
-2. You can correct any of the personal data that is incorrect or incomplete
-3. You have the right to restrict the processing of your data in some circumstances
-4. You have the right to withdraw consent to decisions taken by automatic means without human intervention in some circumstances
-
-How to contact us
-
-If you have any questions about our services, the data we collect on you or how the data will be shared, please contact us at:
-oneofakindcharity@gmail.com
-
-This privacy policy is created in compliance with GDPR regulations.
 
 
 <a href="/assets/Privacy Policy.docx" class="btn--default">Privacy notice</a>
