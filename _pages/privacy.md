@@ -28,6 +28,19 @@ This Privacy Policy explains how information is collected, used, stored, and sha
 
 The application is designed for children aged 3–6 years. Because the app is used by children, parental or guardian consent is required before any data is collected or recorded.
 
+
+Our app collects cognitive performance data (health data) from children as part of an approved research study. Our access and use of this data is governed by the following four principles:
+
+- Direct User Benefit
+All cognitive data collected is directly tied to providing a clear benefit: enabling children aged 3–6 to participate in approved scientific research designed to advance understanding of early cognitive development in neurodivergent children. No data is collected beyond what is necessary for this purpose.
+
+- Minimal Data Access
+We only request permissions and collect data types that are strictly necessary to support the cognitive research tasks within the app. We do not request broader access than is required for our approved research use cases.
+
+- Comprehensive Privacy Policy
+This policy clearly explains what cognitive data is collected, how it is used, stored and shared (including with any third parties), and our data retention and deletion policies.
+
+
 1. Parental Consent
 
 Before a child can use the application, a parent or legal guardian must provide consent. During this process, the parent or guardian is asked to provide their name to confirm consent for participation in the research study.
@@ -38,7 +51,9 @@ Children cannot use the application until parental consent has been provided.
 
 2. Information We Collect
 
-We collect limited information necessary to conduct the research study and maintain the functionality of the application.
+We collect limited information necessary to conduct the research study and maintain the functionality of the application. This application does not request any special Android permissions.
+Interaction data such as response times and tap inputs are recorded as standard app functionality, solely within the context of the approved research study.
+No health sensor data (such as heart rate or step count) is accessed.
 
 a. Parent or Guardian Information
 
